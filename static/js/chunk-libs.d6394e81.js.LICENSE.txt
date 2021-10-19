@@ -90,7 +90,7 @@ object-assign
  */
 
 /*!
- * vue-i18n v8.25.0 
+ * vue-i18n v8.26.5 
  * (c) 2021 kazuya kawaguchi
  * Released under the MIT License.
  */
@@ -101,7 +101,7 @@ object-assign
 * (c) Sindre Sorhus; MIT License
 */
 
-/*! https://mths.be/punycode v1.4.1 by @mathias */
+/*! https://mths.be/punycode v1.3.2 by @mathias */
 
 /*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
 
