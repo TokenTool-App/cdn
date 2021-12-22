@@ -41,6 +41,8 @@ OTHER TORTIOUS ACTION, ARISING OUT OF OR IN CONNECTION WITH THE USE OR
 PERFORMANCE OF THIS SOFTWARE.
 ***************************************************************************** */
 
+/*! micro-base - MIT License (c) 2021 Paul Miller (paulmillr.com) */
+
 /**
  * Support for translating between Uint8Array instances and JavaScript
  * native types.
