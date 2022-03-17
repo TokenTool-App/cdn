@@ -11,6 +11,12 @@
       "img": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/pic/third/pink_chaheyue.jpg",
       "alt": "查合约机器人",
       "name": "粉红查币"
+    },
+    {
+      "url": "https://dexnav.com/",
+      "img": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/pic/third/pink_chaheyue.jpg",
+      "alt": "Dexnav",
+      "name": "区块链导航"
     }
   ]
 }
