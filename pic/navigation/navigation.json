@@ -1037,22 +1037,27 @@
             ],
             "nav_tags": [
                 {
+                    "id": 32,
                     "name": "NFT市场",
                     "name_en": "Marketplace"
                 },
                 {
+                    "id": 33,
                     "name": "NFT工具",
                     "name_en": "Tools"
                 },
                 {
+                    "id": 92,
                     "name": "SOL链",
                     "name_en": "Solona Chain"
                 },
                 {
+                    "id": 99,
                     "name": "NFT数据",
                     "name_en": "Analysis"
                 },
                 {
+                    "id": 100,
                     "name": "域名工具",
                     "name_en": "Domain Tools"
                 }
