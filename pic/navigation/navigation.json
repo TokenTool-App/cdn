@@ -6,6 +6,7 @@
             "name_zh": "TT 推荐",
             "name_en": "recommend",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://opensea.io/",
@@ -78,6 +79,7 @@
             "name_zh": "NFT",
             "name_en": "NFT",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://www.element.market/ethereum",
@@ -1071,6 +1073,7 @@
             "name_zh": "媒介资讯",
             "name_en": "Media",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://web3caff.com/zh/fs",
@@ -1264,6 +1267,7 @@
             "name_zh": "数据分析",
             "name_en": "Data Analysis",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://www.coingecko.com/",
@@ -1603,6 +1607,7 @@
             "name_zh": "DeFi",
             "name_en": "DeFi",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://dexscreener.com/",
@@ -1864,6 +1869,7 @@
             "name_zh": "钱包安全",
             "name_en": "Wallet",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://metamask.io/",
@@ -2008,6 +2014,7 @@
             "name_zh": "跨链网关",
             "name_en": "Bridge",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://www.cointofu.com/cross-chain-bridge",
@@ -2178,6 +2185,7 @@
             "name_zh": "区块浏览器",
             "name_en": "Block Explorer",
             "expand": true,
+            "is_use":0,
             "links": [
                 {
                     "url": "https://etherscan.io/",
