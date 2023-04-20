@@ -2,9 +2,9 @@
     "navigationList": [
         {
             "id": 0,
-            "slug": "nav_nft",
-            "name_zh": "NFT",
-            "name_en": "NFT",
+            "slug": "nav_tt",
+            "name_zh": "TT 推荐",
+            "name_en": "recommend",
             "links": [
                 {
                     "url": "https://opensea.io/",
