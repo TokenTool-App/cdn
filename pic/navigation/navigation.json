@@ -4,7 +4,7 @@
             "id": 0,
             "slug": "nav_tt",
             "name_zh": "TT 推荐",
-            "name_en": "recommend",
+            "name_en": "Recommend",
             "expand": true,
             "is_use": 0,
             "links": [
@@ -2095,7 +2095,7 @@
                 {
                     "url": "https://explorer.aptoslabs.com/",
                     "icon": "https://cdn.tokentool.club/2022-09-05/1666949973431",
-                    "name": "Aptos区块浏览器",
+                    "name": "Aptos区块浏览器", 
                     "desc": "Aptos区块浏览器",
                     "sort": 0,
                     "nav_tags": [],
@@ -2103,6 +2103,18 @@
                     "introduction_eh": "",
                     "name_eh": "Aptos Explorer",
                     "desc_eh": "Aptos chain explorer"
+                },
+                {
+                    "url": "https://scan.coredao.org/",
+                    "icon": "https://cdn.tokentool.club/2022-09-05/coin-core.svg",
+                    "name": "Core区块浏览器",
+                    "desc": "Core区块浏览器",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Core Explorer",
+                    "desc_eh": "Core chain explorer"
                 }
             ],
             "nav_tags": [],
