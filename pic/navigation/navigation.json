@@ -67,6 +67,18 @@
                     "introduction_eh": "",
                     "name_eh": "Blur",
                     "desc_eh": "Emerging NFT markets and trading tool"
+                },
+                {
+                    "url": "https://hellodex.io/",
+                    "icon": "https://img.apihellodex.lol/logo/1024.png",
+                    "name": "Hello Dex",
+                    "desc": "去中心化交易终端",
+                    "sort": 5,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Hello Dex",
+                    "desc_eh": "Decentralized trading terminal"
                 }
             ]
         },
@@ -1383,6 +1395,18 @@
                     "introduction_eh": "",
                     "name_eh": "Glassnode",
                     "desc_eh": "Comprehensive on-chain data analysis"
+                },
+                {
+                    "url": "https://chainbot.io/",
+                    "icon": "https://cdn.tokentool.club/2022-09-06/chainbot.png",
+                    "name": "ChainBot",
+                    "desc": "链上数据监控机器人",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "ChainBot",
+                    "desc_eh": "All Monitor Bots You need in Crypto"
                 }
             ],
             "nav_tags": [],
@@ -1626,6 +1650,18 @@
                     "introduction_eh": "",
                     "name_eh": "DeFi Pulse",
                     "desc_eh": "DeFi data of Ethereum "
+                },
+                {
+                    "url": "https://hellodex.io/",
+                    "icon": "https://img.apihellodex.lol/logo/1024.png",
+                    "name": "Hello Dex",
+                    "desc": "去中心化交易终端",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Hello Dex",
+                    "desc_eh": "Decentralized trading terminal"
                 }
             ],
             "nav_tags": [],
