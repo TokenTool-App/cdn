@@ -21,16 +21,16 @@
                     "desc_eh": "Batch sending ETH and ERC20 tokens"
                 },
                 {
-                    "url": "https://opensea.io/",
-                    "icon": "https://cdn.tokentool.club/2022-09-05/1666853776560",
-                    "name": "Opensea",
-                    "desc": "NFT市场最大交易网站",
-                    "sort": 1,
+                    "url": "https://tokentool.app/oneToMore/sol",
+                    "icon": "https://cdn.tokentool.club/2023-05-01/df422b1f36.svg",
+                    "name": "SOL批量分发代币",
+                    "desc": "Solana链的代币批量分发",
+                    "sort": 0,
                     "nav_tags": [],
                     "introduction": "",
                     "introduction_eh": "",
-                    "name_eh": "Opensea",
-                    "desc_eh": "Biggest marketplace of NFT"
+                    "name_eh": "SOL MultiSender",
+                    "desc_eh": "Batch distribution of tokens on Solana chain"
                 },
                 {
                     "url": "https://dune.com/",
@@ -43,6 +43,18 @@
                     "introduction_eh": "",
                     "name_eh": "Dune",
                     "desc_eh": "Analysis of comprehensive on-chain data "
+                },
+                {
+                    "url": "https://phantom.app/",
+                    "icon": "https://cdn.tokentool.club/pic/logo/Phantom_SVG_Icon.svg",
+                    "name": "Phantom",
+                    "desc": "SOL链钱包资产管理工具",
+                    "sort": 3,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Phantom",
+                    "desc_eh": "SOL chain wallet asset management tool"
                 },
                 {
                     "url": "https://www.tokenpocket.pro/",
@@ -1690,6 +1702,18 @@
                     "name_eh": "Metamask",
                     "desc_eh": "The most popular Web3 wallet"
                 },
+                {
+                    "url": "https://phantom.app/",
+                    "icon": "https://cdn.tokentool.club/pic/logo/Phantom_SVG_Icon.svg",
+                    "name": "Phantom",
+                    "desc": "SOL链钱包资产管理工具",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Phantom",
+                    "desc_eh": "SOL chain wallet asset management tool"
+                }
                 {
                     "url": "https://zapper.fi/zh",
                     "icon": "https://cdn.tokentool.club/2022-09-06/eb4c5dcf51.jpg",
