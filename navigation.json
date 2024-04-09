@@ -9,7 +9,7 @@
             "is_use": 0,
             "links": [
                 {
-                    "url": "https://tokentool.app/oneToMore/eth",
+                    "url": "https://tokentools.app/oneToMore/eth",
                     "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2023-05-01/df422b1f36.svg",
                     "name": "批量分发代币",
                     "desc": "一键分发 ETH / BSC 多链的代币",
