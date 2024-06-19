@@ -1838,6 +1838,18 @@
             "is_use": 0,
             "links": [
                 {
+                    "url": "https://layerzero.network",
+                    "icon": "https://layerzero.network/static/logo-small.svg",
+                    "name": "LayerZero",
+                    "desc": "LayerZero",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "LayerZero",
+                    "desc_eh": "Build Stablecoins Omnichain"
+                },
+                {
                     "url": "https://www.cointofu.com/cross-chain-bridge",
                     "icon": "https://cdn.tokentool.club/2022-09-06/5c252395c9.jpg",
                     "name": "CoinTofu",
