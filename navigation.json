@@ -70,14 +70,14 @@
                 },
                 {
                     "url": "https://hellodex.io/",
-                    "icon": "https://img.apihellodex.lol/logo/1024.png",
-                    "name": "Hello Dex",
-                    "desc": "去中心化交易终端",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2023-05-01/1024.png",
+                    "name": "HelloDex",
+                    "desc": "冲土狗/meme币神器",
                     "sort": 5,
                     "nav_tags": [],
                     "introduction": "",
                     "introduction_eh": "",
-                    "name_eh": "Hello Dex",
+                    "name_eh": "HelloDex",
                     "desc_eh": "Decentralized trading terminal"
                 }
             ]
