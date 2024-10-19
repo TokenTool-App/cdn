@@ -1952,10 +1952,22 @@
                     "desc": "跨鏈聚合閃兌平台",
                     "sort": 0,
                     "nav_tags": [],
-                    "introduction": "Transit Swap是一个跨鏈聚合閃兌平台。集去中心化閃兌、聚合交易、一站式跨鍊等功能於一身，用戶無需經過認證，即可完成去中心化的即時交易。\n",
+                    "introduction": "Transit Swap是一个跨鏈聚合閃兌平台。集去中心化閃兌、聚合交易、一站式跨鍊等功能於一身，用戶無需經過認證，即可完成去中心化的即時交易。",
                     "introduction_eh": "Transit Swap is a cross-chain swap platform that integrates DEXs, aggregate transactions, and a one-stop cross-chain. Without certification, users can complete decentralized transactions in real-time and instantly swap assets across networks supported by TokenPocket.",
                     "name_eh": "Transit Swap",
                     "desc_eh": "A Multi-chain DEX Aggregator"
+                },
+                {
+                    "url": "https://app.dln.trade/dln",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2023-05-01/e0LLdgCm_400x400.jpg",
+                    "name": "DLN Bridge",
+                    "desc": "DLN 以前所未有的速度、效率和控制力进行跨链交易。",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "DLN 以前所未有的速度、效率和控制力进行跨链交易。",
+                    "introduction_eh": "Trade Across Chains Natively With Unprecedented Speed, Efficiency, and Control.",
+                    "name_eh": "DLN Bridge",
+                    "desc_eh": "Trade Across Chains Natively With Unprecedented Speed, Efficiency, and Control."
                 }
             ],
             "nav_tags": [],
