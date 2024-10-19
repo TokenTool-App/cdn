@@ -1968,6 +1968,18 @@
                     "introduction_eh": "Trade Across Chains Natively With Unprecedented Speed, Efficiency, and Control.",
                     "name_eh": "DLN Bridge",
                     "desc_eh": "Trade Across Chains Natively With Unprecedented Speed, Efficiency, and Control."
+                },
+                {
+                    "url": "https://app.debridge.finance/",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2023-05-01/AvTkqxTF_400x400.jpg",
+                    "name": "deBridge",
+                    "desc": "deBridge 效率和控制力进行跨链交易。",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "在几秒钟内即可在以太坊、Solana 和所有主要链之间架起桥梁，具有最佳汇率和最深的流动性。",
+                    "introduction_eh": "Bridge in seconds between Ethereum, Solana, and all major chains with best rates and deepest liquidity. ",
+                    "name_eh": "deBridge",
+                    "desc_eh": "deBridge performs cross-chain transactions with greater efficiency and control."
                 }
             ],
             "nav_tags": [],
