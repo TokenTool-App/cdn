@@ -1814,6 +1814,54 @@
             "is_use": 0,
             "links": [
                 {
+                    "url": "https://thorchain.org",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2022-09-06/5c252395c8.png",
+                    "name": "THORChain",
+                    "desc": "多链资产交换",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "THORChain",
+                    "desc_eh": "Native Asset Exchange"
+                },
+                {
+                    "url": "https://swap.chainflip.io/",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2022-09-06/5c252395c7.jpg",
+                    "name": "Chainflip",
+                    "desc": "多链资产交换",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "Chainflip",
+                    "desc_eh": "Native Asset Exchange"
+                },
+                {
+                    "url": "https://2.torndao.eth.limo/",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2022-09-06/b529067b93.jpg",
+                    "name": "TorndaoCash",
+                    "desc": "匿名转账隐私协议",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "TorndaoCash",
+                    "desc_eh": "A fully decentralized protocol for private transactions on Ethereum"
+                },
+                {
+                    "url": "https://exch.cx/",
+                    "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2022-09-06/b529067b96.png",
+                    "name": "eXch",
+                    "desc": "无须KYC交易所",
+                    "sort": 0,
+                    "nav_tags": [],
+                    "introduction": "",
+                    "introduction_eh": "",
+                    "name_eh": "eXch",
+                    "desc_eh": "Automatic cryptocurrency swaps"
+                },
+                {
                     "url": "https://www.cointofu.com/cross-chain-bridge",
                     "icon": "https://cdn.jsdelivr.net/gh/TokenTool-App/cdn@main/2022-09-06/5c252395c9.jpg",
                     "name": "CoinTofu",
